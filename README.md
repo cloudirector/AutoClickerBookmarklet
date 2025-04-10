@@ -1,0 +1,2 @@
+# AutoClickerBookmarklet
+An AutoClicker Bookmarklet
